@@ -4,3 +4,6 @@
 [submodule "Learn-PYTHON-3-the-HARD-WAY"]
 	path = Learn-PYTHON-3-the-HARD-WAY
 	url = https://github.com/Nikolov-A/Learn-PYTHON-3-the-HARD-WAY
+[submodule "SoftwareAcademy"]
+	path = SoftwareAcademy
+	url = https://github.com/Nikolov-A/SoftwareAcademy
