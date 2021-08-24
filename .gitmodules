@@ -1,3 +1,6 @@
 [submodule "SoftUni"]
 	path = SoftUni
 	url = https://github.com/Nikolov-A/SoftUni
+[submodule "Learn-PYTHON-3-the-HARD-WAY"]
+	path = Learn-PYTHON-3-the-HARD-WAY
+	url = https://github.com/Nikolov-A/Learn-PYTHON-3-the-HARD-WAY
